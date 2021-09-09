@@ -1,0 +1,11 @@
+/Users/processor_machine/Desktop/rusty-chat/target/debug/deps/time-35805708f7da5348.rmeta: /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/lib.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/display.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/duration.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/parse.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/sys.rs
+
+/Users/processor_machine/Desktop/rusty-chat/target/debug/deps/libtime-35805708f7da5348.rlib: /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/lib.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/display.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/duration.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/parse.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/sys.rs
+
+/Users/processor_machine/Desktop/rusty-chat/target/debug/deps/time-35805708f7da5348.d: /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/lib.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/display.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/duration.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/parse.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/sys.rs
+
+/Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/lib.rs:
+/Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/display.rs:
+/Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/duration.rs:
+/Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/parse.rs:
+/Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.43/src/sys.rs:

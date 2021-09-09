@@ -1,0 +1,10 @@
+/Users/processor_machine/Desktop/rusty-chat/target/debug/deps/thread_local-952f151637a393f3.rmeta: /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/lib.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/thread_id.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/unreachable.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/cached.rs
+
+/Users/processor_machine/Desktop/rusty-chat/target/debug/deps/libthread_local-952f151637a393f3.rlib: /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/lib.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/thread_id.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/unreachable.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/cached.rs
+
+/Users/processor_machine/Desktop/rusty-chat/target/debug/deps/thread_local-952f151637a393f3.d: /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/lib.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/thread_id.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/unreachable.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/cached.rs
+
+/Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/lib.rs:
+/Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/thread_id.rs:
+/Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/unreachable.rs:
+/Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/cached.rs:

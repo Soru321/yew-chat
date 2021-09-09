@@ -1,0 +1,9 @@
+/Users/processor_machine/Desktop/rusty-chat/target/debug/deps/libproc_macro_hack-29285a4e5b3edbb4.dylib: /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/lib.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/quote.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/error.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/iter.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/parse.rs
+
+/Users/processor_machine/Desktop/rusty-chat/target/debug/deps/proc_macro_hack-29285a4e5b3edbb4.d: /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/lib.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/quote.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/error.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/iter.rs /Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/parse.rs
+
+/Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/lib.rs:
+/Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/quote.rs:
+/Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/error.rs:
+/Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/iter.rs:
+/Users/processor_machine/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.16/src/parse.rs:
